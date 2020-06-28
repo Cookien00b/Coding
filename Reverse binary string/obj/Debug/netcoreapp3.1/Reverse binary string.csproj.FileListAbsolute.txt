@@ -1,0 +1,13 @@
+C:\Users\Brinks\Documents\Coding\C# scripts\Reverse binary string\bin\Debug\netcoreapp3.1\Reverse binary string.exe
+C:\Users\Brinks\Documents\Coding\C# scripts\Reverse binary string\bin\Debug\netcoreapp3.1\Reverse binary string.deps.json
+C:\Users\Brinks\Documents\Coding\C# scripts\Reverse binary string\bin\Debug\netcoreapp3.1\Reverse binary string.runtimeconfig.json
+C:\Users\Brinks\Documents\Coding\C# scripts\Reverse binary string\bin\Debug\netcoreapp3.1\Reverse binary string.runtimeconfig.dev.json
+C:\Users\Brinks\Documents\Coding\C# scripts\Reverse binary string\bin\Debug\netcoreapp3.1\Reverse binary string.dll
+C:\Users\Brinks\Documents\Coding\C# scripts\Reverse binary string\bin\Debug\netcoreapp3.1\Reverse binary string.pdb
+C:\Users\Brinks\Documents\Coding\C# scripts\Reverse binary string\obj\Debug\netcoreapp3.1\Reverse binary string.csprojAssemblyReference.cache
+C:\Users\Brinks\Documents\Coding\C# scripts\Reverse binary string\obj\Debug\netcoreapp3.1\Reverse binary string.AssemblyInfoInputs.cache
+C:\Users\Brinks\Documents\Coding\C# scripts\Reverse binary string\obj\Debug\netcoreapp3.1\Reverse binary string.AssemblyInfo.cs
+C:\Users\Brinks\Documents\Coding\C# scripts\Reverse binary string\obj\Debug\netcoreapp3.1\Reverse binary string.csproj.CoreCompileInputs.cache
+C:\Users\Brinks\Documents\Coding\C# scripts\Reverse binary string\obj\Debug\netcoreapp3.1\Reverse binary string.dll
+C:\Users\Brinks\Documents\Coding\C# scripts\Reverse binary string\obj\Debug\netcoreapp3.1\Reverse binary string.pdb
+C:\Users\Brinks\Documents\Coding\C# scripts\Reverse binary string\obj\Debug\netcoreapp3.1\Reverse binary string.genruntimeconfig.cache
