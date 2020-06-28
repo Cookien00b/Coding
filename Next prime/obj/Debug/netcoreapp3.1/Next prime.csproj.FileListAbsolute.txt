@@ -1,0 +1,13 @@
+C:\Users\Brinks\Documents\Template\Coding\Next prime\bin\Debug\netcoreapp3.1\Next prime.exe
+C:\Users\Brinks\Documents\Template\Coding\Next prime\bin\Debug\netcoreapp3.1\Next prime.deps.json
+C:\Users\Brinks\Documents\Template\Coding\Next prime\bin\Debug\netcoreapp3.1\Next prime.runtimeconfig.json
+C:\Users\Brinks\Documents\Template\Coding\Next prime\bin\Debug\netcoreapp3.1\Next prime.runtimeconfig.dev.json
+C:\Users\Brinks\Documents\Template\Coding\Next prime\bin\Debug\netcoreapp3.1\Next prime.dll
+C:\Users\Brinks\Documents\Template\Coding\Next prime\bin\Debug\netcoreapp3.1\Next prime.pdb
+C:\Users\Brinks\Documents\Template\Coding\Next prime\obj\Debug\netcoreapp3.1\Next prime.csprojAssemblyReference.cache
+C:\Users\Brinks\Documents\Template\Coding\Next prime\obj\Debug\netcoreapp3.1\Next prime.AssemblyInfoInputs.cache
+C:\Users\Brinks\Documents\Template\Coding\Next prime\obj\Debug\netcoreapp3.1\Next prime.AssemblyInfo.cs
+C:\Users\Brinks\Documents\Template\Coding\Next prime\obj\Debug\netcoreapp3.1\Next prime.csproj.CoreCompileInputs.cache
+C:\Users\Brinks\Documents\Template\Coding\Next prime\obj\Debug\netcoreapp3.1\Next prime.dll
+C:\Users\Brinks\Documents\Template\Coding\Next prime\obj\Debug\netcoreapp3.1\Next prime.pdb
+C:\Users\Brinks\Documents\Template\Coding\Next prime\obj\Debug\netcoreapp3.1\Next prime.genruntimeconfig.cache
