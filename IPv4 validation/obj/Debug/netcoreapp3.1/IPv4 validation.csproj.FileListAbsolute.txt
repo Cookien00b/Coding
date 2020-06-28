@@ -1,0 +1,13 @@
+C:\Users\Brinks\Documents\Template\Coding\IPv4 validation\bin\Debug\netcoreapp3.1\IPv4 validation.exe
+C:\Users\Brinks\Documents\Template\Coding\IPv4 validation\bin\Debug\netcoreapp3.1\IPv4 validation.deps.json
+C:\Users\Brinks\Documents\Template\Coding\IPv4 validation\bin\Debug\netcoreapp3.1\IPv4 validation.runtimeconfig.json
+C:\Users\Brinks\Documents\Template\Coding\IPv4 validation\bin\Debug\netcoreapp3.1\IPv4 validation.runtimeconfig.dev.json
+C:\Users\Brinks\Documents\Template\Coding\IPv4 validation\bin\Debug\netcoreapp3.1\IPv4 validation.dll
+C:\Users\Brinks\Documents\Template\Coding\IPv4 validation\bin\Debug\netcoreapp3.1\IPv4 validation.pdb
+C:\Users\Brinks\Documents\Template\Coding\IPv4 validation\obj\Debug\netcoreapp3.1\IPv4 validation.csprojAssemblyReference.cache
+C:\Users\Brinks\Documents\Template\Coding\IPv4 validation\obj\Debug\netcoreapp3.1\IPv4 validation.AssemblyInfoInputs.cache
+C:\Users\Brinks\Documents\Template\Coding\IPv4 validation\obj\Debug\netcoreapp3.1\IPv4 validation.AssemblyInfo.cs
+C:\Users\Brinks\Documents\Template\Coding\IPv4 validation\obj\Debug\netcoreapp3.1\IPv4 validation.csproj.CoreCompileInputs.cache
+C:\Users\Brinks\Documents\Template\Coding\IPv4 validation\obj\Debug\netcoreapp3.1\IPv4 validation.dll
+C:\Users\Brinks\Documents\Template\Coding\IPv4 validation\obj\Debug\netcoreapp3.1\IPv4 validation.pdb
+C:\Users\Brinks\Documents\Template\Coding\IPv4 validation\obj\Debug\netcoreapp3.1\IPv4 validation.genruntimeconfig.cache
