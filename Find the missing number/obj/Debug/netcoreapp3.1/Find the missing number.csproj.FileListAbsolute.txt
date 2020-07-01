@@ -1,0 +1,13 @@
+C:\Users\Brinks\Documents\Template\Coding\Find the missing number\bin\Debug\netcoreapp3.1\Find the missing number.exe
+C:\Users\Brinks\Documents\Template\Coding\Find the missing number\bin\Debug\netcoreapp3.1\Find the missing number.deps.json
+C:\Users\Brinks\Documents\Template\Coding\Find the missing number\bin\Debug\netcoreapp3.1\Find the missing number.runtimeconfig.json
+C:\Users\Brinks\Documents\Template\Coding\Find the missing number\bin\Debug\netcoreapp3.1\Find the missing number.runtimeconfig.dev.json
+C:\Users\Brinks\Documents\Template\Coding\Find the missing number\bin\Debug\netcoreapp3.1\Find the missing number.dll
+C:\Users\Brinks\Documents\Template\Coding\Find the missing number\bin\Debug\netcoreapp3.1\Find the missing number.pdb
+C:\Users\Brinks\Documents\Template\Coding\Find the missing number\obj\Debug\netcoreapp3.1\Find the missing number.csprojAssemblyReference.cache
+C:\Users\Brinks\Documents\Template\Coding\Find the missing number\obj\Debug\netcoreapp3.1\Find the missing number.AssemblyInfoInputs.cache
+C:\Users\Brinks\Documents\Template\Coding\Find the missing number\obj\Debug\netcoreapp3.1\Find the missing number.AssemblyInfo.cs
+C:\Users\Brinks\Documents\Template\Coding\Find the missing number\obj\Debug\netcoreapp3.1\Find the missing number.csproj.CoreCompileInputs.cache
+C:\Users\Brinks\Documents\Template\Coding\Find the missing number\obj\Debug\netcoreapp3.1\Find the missing number.dll
+C:\Users\Brinks\Documents\Template\Coding\Find the missing number\obj\Debug\netcoreapp3.1\Find the missing number.pdb
+C:\Users\Brinks\Documents\Template\Coding\Find the missing number\obj\Debug\netcoreapp3.1\Find the missing number.genruntimeconfig.cache
