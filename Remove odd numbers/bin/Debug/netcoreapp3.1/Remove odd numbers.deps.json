@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Remove odd numbers/1.0.0": {
+        "runtime": {
+          "Remove odd numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Remove odd numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
