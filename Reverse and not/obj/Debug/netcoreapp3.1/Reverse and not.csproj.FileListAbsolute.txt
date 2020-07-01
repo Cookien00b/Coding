@@ -1,0 +1,13 @@
+C:\Users\Brinks\Documents\Template\Coding\Reverse and not\bin\Debug\netcoreapp3.1\Reverse and not.exe
+C:\Users\Brinks\Documents\Template\Coding\Reverse and not\bin\Debug\netcoreapp3.1\Reverse and not.deps.json
+C:\Users\Brinks\Documents\Template\Coding\Reverse and not\bin\Debug\netcoreapp3.1\Reverse and not.runtimeconfig.json
+C:\Users\Brinks\Documents\Template\Coding\Reverse and not\bin\Debug\netcoreapp3.1\Reverse and not.runtimeconfig.dev.json
+C:\Users\Brinks\Documents\Template\Coding\Reverse and not\bin\Debug\netcoreapp3.1\Reverse and not.dll
+C:\Users\Brinks\Documents\Template\Coding\Reverse and not\bin\Debug\netcoreapp3.1\Reverse and not.pdb
+C:\Users\Brinks\Documents\Template\Coding\Reverse and not\obj\Debug\netcoreapp3.1\Reverse and not.csprojAssemblyReference.cache
+C:\Users\Brinks\Documents\Template\Coding\Reverse and not\obj\Debug\netcoreapp3.1\Reverse and not.AssemblyInfoInputs.cache
+C:\Users\Brinks\Documents\Template\Coding\Reverse and not\obj\Debug\netcoreapp3.1\Reverse and not.AssemblyInfo.cs
+C:\Users\Brinks\Documents\Template\Coding\Reverse and not\obj\Debug\netcoreapp3.1\Reverse and not.csproj.CoreCompileInputs.cache
+C:\Users\Brinks\Documents\Template\Coding\Reverse and not\obj\Debug\netcoreapp3.1\Reverse and not.dll
+C:\Users\Brinks\Documents\Template\Coding\Reverse and not\obj\Debug\netcoreapp3.1\Reverse and not.pdb
+C:\Users\Brinks\Documents\Template\Coding\Reverse and not\obj\Debug\netcoreapp3.1\Reverse and not.genruntimeconfig.cache
