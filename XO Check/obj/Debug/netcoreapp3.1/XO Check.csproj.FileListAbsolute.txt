@@ -1,0 +1,13 @@
+C:\Users\Brinks\Documents\Template\Coding\XO Check\bin\Debug\netcoreapp3.1\XO Check.exe
+C:\Users\Brinks\Documents\Template\Coding\XO Check\bin\Debug\netcoreapp3.1\XO Check.deps.json
+C:\Users\Brinks\Documents\Template\Coding\XO Check\bin\Debug\netcoreapp3.1\XO Check.runtimeconfig.json
+C:\Users\Brinks\Documents\Template\Coding\XO Check\bin\Debug\netcoreapp3.1\XO Check.runtimeconfig.dev.json
+C:\Users\Brinks\Documents\Template\Coding\XO Check\bin\Debug\netcoreapp3.1\XO Check.dll
+C:\Users\Brinks\Documents\Template\Coding\XO Check\bin\Debug\netcoreapp3.1\XO Check.pdb
+C:\Users\Brinks\Documents\Template\Coding\XO Check\obj\Debug\netcoreapp3.1\XO Check.csprojAssemblyReference.cache
+C:\Users\Brinks\Documents\Template\Coding\XO Check\obj\Debug\netcoreapp3.1\XO Check.AssemblyInfoInputs.cache
+C:\Users\Brinks\Documents\Template\Coding\XO Check\obj\Debug\netcoreapp3.1\XO Check.AssemblyInfo.cs
+C:\Users\Brinks\Documents\Template\Coding\XO Check\obj\Debug\netcoreapp3.1\XO Check.csproj.CoreCompileInputs.cache
+C:\Users\Brinks\Documents\Template\Coding\XO Check\obj\Debug\netcoreapp3.1\XO Check.dll
+C:\Users\Brinks\Documents\Template\Coding\XO Check\obj\Debug\netcoreapp3.1\XO Check.pdb
+C:\Users\Brinks\Documents\Template\Coding\XO Check\obj\Debug\netcoreapp3.1\XO Check.genruntimeconfig.cache
