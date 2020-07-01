@@ -1,0 +1,13 @@
+C:\Users\Brinks\Documents\Template\Coding\Exactly three divisors\obj\Debug\netcoreapp3.1\Exactly three divisors.csprojAssemblyReference.cache
+C:\Users\Brinks\Documents\Template\Coding\Exactly three divisors\obj\Debug\netcoreapp3.1\Exactly three divisors.AssemblyInfoInputs.cache
+C:\Users\Brinks\Documents\Template\Coding\Exactly three divisors\obj\Debug\netcoreapp3.1\Exactly three divisors.AssemblyInfo.cs
+C:\Users\Brinks\Documents\Template\Coding\Exactly three divisors\obj\Debug\netcoreapp3.1\Exactly three divisors.csproj.CoreCompileInputs.cache
+C:\Users\Brinks\Documents\Template\Coding\Exactly three divisors\bin\Debug\netcoreapp3.1\Exactly three divisors.exe
+C:\Users\Brinks\Documents\Template\Coding\Exactly three divisors\bin\Debug\netcoreapp3.1\Exactly three divisors.deps.json
+C:\Users\Brinks\Documents\Template\Coding\Exactly three divisors\bin\Debug\netcoreapp3.1\Exactly three divisors.runtimeconfig.json
+C:\Users\Brinks\Documents\Template\Coding\Exactly three divisors\bin\Debug\netcoreapp3.1\Exactly three divisors.runtimeconfig.dev.json
+C:\Users\Brinks\Documents\Template\Coding\Exactly three divisors\bin\Debug\netcoreapp3.1\Exactly three divisors.dll
+C:\Users\Brinks\Documents\Template\Coding\Exactly three divisors\bin\Debug\netcoreapp3.1\Exactly three divisors.pdb
+C:\Users\Brinks\Documents\Template\Coding\Exactly three divisors\obj\Debug\netcoreapp3.1\Exactly three divisors.dll
+C:\Users\Brinks\Documents\Template\Coding\Exactly three divisors\obj\Debug\netcoreapp3.1\Exactly three divisors.pdb
+C:\Users\Brinks\Documents\Template\Coding\Exactly three divisors\obj\Debug\netcoreapp3.1\Exactly three divisors.genruntimeconfig.cache
