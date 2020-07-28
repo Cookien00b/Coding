@@ -1,0 +1,13 @@
+C:\Users\Brinks\Documents\Template\Coding\string sorting\obj\Debug\netcoreapp3.1\string sorting.csprojAssemblyReference.cache
+C:\Users\Brinks\Documents\Template\Coding\string sorting\obj\Debug\netcoreapp3.1\string sorting.AssemblyInfoInputs.cache
+C:\Users\Brinks\Documents\Template\Coding\string sorting\obj\Debug\netcoreapp3.1\string sorting.AssemblyInfo.cs
+C:\Users\Brinks\Documents\Template\Coding\string sorting\obj\Debug\netcoreapp3.1\string sorting.csproj.CoreCompileInputs.cache
+C:\Users\Brinks\Documents\Template\Coding\string sorting\bin\Debug\netcoreapp3.1\string sorting.exe
+C:\Users\Brinks\Documents\Template\Coding\string sorting\bin\Debug\netcoreapp3.1\string sorting.deps.json
+C:\Users\Brinks\Documents\Template\Coding\string sorting\bin\Debug\netcoreapp3.1\string sorting.runtimeconfig.json
+C:\Users\Brinks\Documents\Template\Coding\string sorting\bin\Debug\netcoreapp3.1\string sorting.runtimeconfig.dev.json
+C:\Users\Brinks\Documents\Template\Coding\string sorting\bin\Debug\netcoreapp3.1\string sorting.dll
+C:\Users\Brinks\Documents\Template\Coding\string sorting\bin\Debug\netcoreapp3.1\string sorting.pdb
+C:\Users\Brinks\Documents\Template\Coding\string sorting\obj\Debug\netcoreapp3.1\string sorting.dll
+C:\Users\Brinks\Documents\Template\Coding\string sorting\obj\Debug\netcoreapp3.1\string sorting.pdb
+C:\Users\Brinks\Documents\Template\Coding\string sorting\obj\Debug\netcoreapp3.1\string sorting.genruntimeconfig.cache
